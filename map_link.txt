@@ -1,0 +1,5 @@
+http://www.openstreetmap.org/relation/171262
+
+I chose to download the OSM data for Albuquerque, New Mexico.  Albuquerque is an interesting city situated in the foothills of the Sandia Mountains in the high desert of New Mexico, and gained fame as the site of the AMC smash television series ‘Breaking Bad’.  I lived in this city in the land of enchantment for a number of years, and so am familiar with and favor the location, and this helps to pick up on any peculiarities we could encounter in the dataset. 
+
+We downloaded the zip file from Map Zen, which expanded to 56.9 MB when uncompressed.  
